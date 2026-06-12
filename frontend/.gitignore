@@ -1,0 +1,26 @@
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Java / Spring Boot
+backend/target/
+backend/*.log
+backend/.env
+
+# Maven
+*.class
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+*.env
